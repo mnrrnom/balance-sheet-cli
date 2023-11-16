@@ -1,0 +1,5 @@
+category,amount,currency,date,id
+unionbank,100,php,2023-11-16,0
+bpi,100,php,2023-11-16,1
+loan,100,php,2023-11-16,2
+smbc,100,jpy,2023-11-16,3

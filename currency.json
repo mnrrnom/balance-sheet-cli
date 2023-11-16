@@ -1,0 +1,25 @@
+{
+  "date": "2023-11-16",
+  "conversions": [
+    {
+      "from": "JPY",
+      "to": "PHP",
+      "factor": 0.3683026678
+    },
+    {
+      "from": "JPY",
+      "to": "USD",
+      "factor": 0.0066130542
+    },
+    {
+      "from": "PHP",
+      "to": "JPY",
+      "factor": 2.7151581767608364
+    },
+    {
+      "from": "USD",
+      "to": "JPY",
+      "factor": 151.21605989559256
+    }
+  ]
+}

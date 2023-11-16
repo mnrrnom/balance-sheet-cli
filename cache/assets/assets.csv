@@ -1,0 +1,10 @@
+category,amount,currency,date,id
+unionbank,100,php,2023-11-16,0
+bpi-checking,100,php,2023-11-16,1
+bpi-savings,100,php,2023-11-16,2
+bpi-payroll,100,php,2023-11-16,3
+receivable,100,php,2023-11-16,4
+smbc,100,jpy,2023-11-16,5
+paypay,100,jpy,2023-11-16,6
+sbi,100,jpy,2023-11-16,7
+stocks,100,usd,2023-11-16,8
